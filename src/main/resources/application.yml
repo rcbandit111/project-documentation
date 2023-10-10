@@ -1,0 +1,13 @@
+logging:
+  level:
+    com:
+      backend: DEBUG
+    org:
+      springframework: DEBUG
+      springframework.web: DEBUG
+
+spring:
+  application:
+    name: project-documentation
+  jmx:
+    enabled: false

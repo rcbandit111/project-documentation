@@ -1,0 +1,14 @@
+:toc: left
+:toclevels: 4
+:tabsize: 4
+:docinfo1:
+:doctype: book
+:toc-title: Table of Contents
+
+
+link:images/sample.pdf[Download file,role=resource,window=_blank]
+
+
+{nbsp} +
+
+link:files/sample.pdf[Download file,role=resource,window=_blank]
